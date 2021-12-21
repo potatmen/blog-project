@@ -8,7 +8,7 @@ header {
     display: flex;
 }
 header h1 a{
-    color: red;
+    color: green;
     text-decoration: none;
 }
 .nave_left{
