@@ -7,15 +7,17 @@ header {
     margin-bottom: 2rem;
     display: flex;
 }
-header h1 a{
-    color: green;
+header h1{
+    color: red;
     text-decoration: none;
 }
 .nave_left{
     margin-left: auto;
 }
 .nave_right{
-    display: flex;
+    position: relative;
+    left: 20px;
+    top: 5px;
     padding-top: 2rem;
 }
 .post-entry{
